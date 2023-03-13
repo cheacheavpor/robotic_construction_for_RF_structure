@@ -1,0 +1,3 @@
+This is only a part of simplified code corresponding to the framework in Fig. 5 of the manuscript. 
+It should be noted that such code cannot be run directly if the variable environments and ROS nodes are not set up properly; 
+while it should be able to self-explanatory for the purpose of its replicability and/or reproducibility and should also be able to demonstrate the assembly of structure as presented in the paper. 
